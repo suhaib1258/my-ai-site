@@ -1,0 +1,6 @@
+{
+  "name": "شريك Shareek",
+  "description": "Social accountability habit-breaking app with Gamification, private clans, and verified 24h commitments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
